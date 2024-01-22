@@ -6,7 +6,7 @@ from langchain.schema import HumanMessage, SystemMessage
 from prompts import assistant_prompt
 
 # Constants
-PAGE_TITLE = "EchoLogic AI"
+PAGE_TITLE = "CodeElevate AI"
 PAGE_ICON = "🛸"
 OPENAI_MODEL_NAME = "gpt-4"
 OPENAI_API_KEY_PROMPT = 'OpenAI API Key'
