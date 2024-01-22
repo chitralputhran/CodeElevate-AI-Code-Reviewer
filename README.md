@@ -20,7 +20,7 @@ CodeElevate is a web-based tool that leverages Python, Streamlit, LangChain, and
    ```sh
    git clone https://github.com/chitralputhran/CodeElevate_AI_code_reviewer.git
    ```
-2. Install required packages
+2. Install the required packages
    ```sh
    pip install -r requirements.txt
    ```
@@ -28,5 +28,10 @@ CodeElevate is a web-based tool that leverages Python, Streamlit, LangChain, and
    ```sh
    streamlit run app.py
    ```
-### Video Demo
-![](demo.mov)
+### Screenshots: 
+![s_1](https://github.com/chitralputhran/CodeElevate_AI_code_reviewer/assets/31520972/266165c9-e398-413a-b689-d45024871605)
+![s_2](https://github.com/chitralputhran/CodeElevate_AI_code_reviewer/assets/31520972/0b6720e4-984a-4133-8383-c4c07bb6e99c)
+![s_3](https://github.com/chitralputhran/CodeElevate_AI_code_reviewer/assets/31520972/b3e9610a-e14c-48cc-9123-289a831e9629)
+
+
+
