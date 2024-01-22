@@ -29,4 +29,4 @@ CodeElevate is a web-based tool that leverages Python, Streamlit, LangChain, and
    streamlit run app.py
    ```
 ### Video Demo
-(.demo.mov)
+![](demo.mov)
