@@ -1,4 +1,4 @@
-# CodeElevate | Code Reviewer
+# CodeElevate AI | Code Reviewer
 
 CodeElevate is a web-based tool that leverages Python, Streamlit, LangChain, and OpenAI's GPT models to provide automated code reviews and enhancements. It is designed to help developers improve their code quality with intelligent feedback and recommendations.
 
